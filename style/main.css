@@ -1,0 +1,15 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.white {
+  background-color: #edf0f1;
+}
+.profile {
+  margin-top: 6rem;
+}
